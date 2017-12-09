@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_5e3004642eb2b223f4f3f0145f9887e13c131ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_519954bf6b820966c3d2b5cc8f05092f3790a1ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_7bc65fb7b12aa13780b6c45e4e46271ee3b738c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_e97a42b91c745c2e90146e84bd29652f7415e766\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_aa9e70d864954a69fc2ad7aeb3efcd4cefce32ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_d4217040cb822835c02e3abd2bde5d7d388435f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ef2ce87caf23475f867a14031f0cf8b0f0e66f5">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9710d322f02fe1a70cc91956399e4f08e702f447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_5c42c5fa23e6e64e75066bcd509002d410cd748f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_4ba9cf8aeeede0ecdfdb08bd68b14aa348f9eca2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_552bad50966244fadc8474c12b768da5c20e0183\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a9f1d5ff708390c5d3055d653bf2c5a2184dcf12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f526656aa3895b12b18f00c28138bd2cb86fcc94">
+        <dex dex="C:\Users\Ashutosh\AndroidStudioProjects\IntermediateAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_16620e4b34b80ee66234f0829c3b041208c3a961\classes.dex" />
+    </item>
+
+</items>
